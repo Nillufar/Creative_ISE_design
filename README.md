@@ -1,4 +1,4 @@
-                                                 # Creative ISE design
+  # Creative ISE design
 
   ## Overview 
 Creative ISE Design aims to cultivate the creativity of engineering, which is most important for students entering engineering for the first time, to grow into excellent and competitive engineers. This course aims to foster design abilities, teamwork, and presentation skills that can discover engineering problems currently facing our society and present creative solutions.
