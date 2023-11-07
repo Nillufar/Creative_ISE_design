@@ -10,6 +10,12 @@ Creative ISE Design aims to cultivate the creativity of engineering, which is mo
 - To achieve common goals, team projects can be carried out and their role as team members can be smoothly carried out.
 - Organizing teams and present the results of team project implementation.
 
+
+## This subject is operated in three parts:
+1. Basic Understanding: concepts, definitions, understanding of engineering
+2. Understanding Application: understanding creative engineering design
+3. Application Understanding: creative engineering design activities through Design Thinking Process
+
   ## This subject is operated in three parts:
 1. Basic Understanding: concepts, definitions, understanding of engineering
 2. Understanding Application: understanding creative engineering design
